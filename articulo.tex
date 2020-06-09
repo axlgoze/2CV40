@@ -4,22 +4,23 @@
 \usepackage{graphicx} %permite la incorporacion de figuras y graficos
 \usepackage[spanish]{babel} %ambiente que maneja varios idiomas, en especifico usamos español
 \usepackage{pdfpages} 
+\usepackage{pifont} %paquete que incluye simbolos especiales.
 
-% Estructura fundamental del artiuclo
-\title{Título del articulo} %titulo del articulo
+% Estructura fundamental del articulo
+\title{Título del articulo \LaTeX} %titulo del articulo
 \author{Axel Reyes} %autor
 \date{08 junio 2020} %fecha fija
 
 \begin{document}
     \maketitle %incluye estrucutra del titulo
-    %\input{resumen}  aqui mandamos a llamar archivo donde se encuentra el resumen
+    \input{resumen}  
     \renewcommand{\tablename}{Tabla} %Para cambiar nombre: cuadro por tabla
 
     % Secciones del artículo 
-    %\input{}
-    %\input{}
+    \input{secciones/seccion1.tex}
+    \input{secciones/seccion2.tex}
     %\input{}
 
     % Referencias
-    %\input{}
+    \input{referencias.tex}
 \end{document}
