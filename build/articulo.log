@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  9 JUN 2020 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  10 JUN 2020 17:53
 entering extended mode
 **"c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex"
 ("c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex"
@@ -199,14 +199,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: secciones/imagenes/imagen2.png Graphic file (type png)
 <use secciones/imagenes/imagen2.png>
 Package pdftex.def Info: secciones/imagenes/imagen2.png  used on input line 10.
-(pdftex.def)             Requested size: 747.08424pt x 1056.48734pt.
-
-Overfull \hbox (402.08424pt too wide) in paragraph at lines 10--11
- [] 
- []
-
-
-LaTeX Warning: Float too large for page by 541.43178pt on input line 13.
+(pdftex.def)             Requested size: 332.03462pt x 469.54594pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -216,17 +209,17 @@ LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 3904 strings out of 480797
- 61121 string characters out of 2889034
- 315804 words of memory out of 3000000
- 19845 multiletter control sequences out of 15000+200000
+ 3906 strings out of 480797
+ 61133 string characters out of 2889034
+ 315812 words of memory out of 3000000
+ 19847 multiletter control sequences out of 15000+200000
  538851 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,8n,45p,436b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf" (3 pages, 148210 bytes).
+<C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf" (3 pages, 174085 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
