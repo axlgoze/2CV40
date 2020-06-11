@@ -8,12 +8,22 @@
 
 % Estructura fundamental del articulo
 %\graphicspath{imagenes/imagen1.png}
+
 \title{Título del articulo \LaTeX} %titulo del articulo
 \author{Axel Reyes} %autor
 \date{08 junio 2020} %fecha fija
 
 \begin{document}
+    \begin{figure}[!t] %Ambiente para figuras, here.
+        \begin{center} 
+        \centering  
+            \includegraphics[scale=0.88]{imagenes/imagen1.png}
+            % width=96px,height=138px \textwidth
+        \end{center}
+    \end{figure}
+    
     \maketitle %incluye estrucutra del titulo
+    
     \input{resumen}  
     \renewcommand{\tablename}{Tabla} %Para cambiar nombre: cuadro por tabla
 
@@ -24,4 +34,5 @@
 
     % Referencias
     \input{referencias.tex}
+    
 \end{document}

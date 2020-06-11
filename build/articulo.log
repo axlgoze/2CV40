@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  11 JUN 2020 11:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  11 JUN 2020 14:08
 entering extended mode
 **"c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex"
 ("c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex"
@@ -138,20 +138,20 @@ LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `articulo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
  ("C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count184
@@ -169,8 +169,8 @@ LaTeX Font Info:    ... okay on input line 15.
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 \AtBeginShipoutBox=\box49
  ("C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\tex/latex/pdflscape\pdflscape.sty"
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -179,47 +179,48 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
+<imagenes/imagen1.png, id=1, 103.88812pt x 72.27pt>
+File: imagenes/imagen1.png Graphic file (type png)
+<use imagenes/imagen1.png>
+Package pdftex.def Info: imagenes/imagen1.png  used on input line 20.
+(pdftex.def)             Requested size: 91.42181pt x 63.59778pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 16.
+(Font)              <17.28> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 16.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 16.
+(Font)              <6> on input line 25.
  (resumen.tex) (secciones/seccion1.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 9.
+(Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 9.
+(Font)              <5> on input line 10.
  [1
 
-{C:/Users/Madeleinosa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (secciones/seccion2.tex
-<secciones/imagenes/imagen2.png, id=15, 1660.2025pt x 2347.77126pt>
+{C:/Users/Madeleinosa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imagenes/imagen1.png>]) (secciones/seccion2.tex
+<secciones/imagenes/imagen2.png, id=18, 103.88812pt x 72.27pt>
 File: secciones/imagenes/imagen2.png Graphic file (type png)
 <use secciones/imagenes/imagen2.png>
 Package pdftex.def Info: secciones/imagenes/imagen2.png  used on input line 9.
-(pdftex.def)             Requested size: 332.03462pt x 469.54594pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (referencias.tex [2]) [3] [4 <./secciones/imagenes/imagen2.png>] ("c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.aux"
+(pdftex.def)             Requested size: 70.64297pt x 49.14293pt.
+ [2 <./secciones/imagenes/imagen2.png>]) (referencias.tex) [3] ("c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3906 strings out of 480797
- 61133 string characters out of 2889034
- 316812 words of memory out of 3000000
- 19847 multiletter control sequences out of 15000+200000
+ 3915 strings out of 480797
+ 61328 string characters out of 2889034
+ 315812 words of memory out of 3000000
+ 19854 multiletter control sequences out of 15000+200000
  538851 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,8n,45p,436b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf" (4 pages, 174459 bytes).
+Output written on "c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf" (3 pages, 158552 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -72,6 +72,12 @@ INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\tex\latex\p
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\tex\latex\graphics\lscape.sty
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\tex\latex\graphics\lscape.sty
+INPUT imagenes\imagen1.png
+INPUT .\imagenes\imagen1.png
+OUTPUT c:\Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf
+INPUT .\imagenes\imagen1.png
+INPUT .\imagenes\imagen1.png
+INPUT .\imagenes\imagen1.png
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmmi12.tfm
@@ -94,7 +100,6 @@ INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\p
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT c:\Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf
 INPUT C:\Users\Madeleinosa\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmti10.tfm
 INPUT secciones\seccion2.tex
