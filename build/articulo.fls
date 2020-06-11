@@ -94,11 +94,11 @@ INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\p
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT c:\Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf
+INPUT C:\Users\Madeleinosa\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\Madeleinosa\Documents\Aprendiendo a programar\MIKTEXT\fonts\tfm\public\cm\cmti10.tfm
 INPUT secciones\seccion2.tex
 INPUT secciones\seccion2.tex
-OUTPUT c:\Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf
-INPUT C:\Users\Madeleinosa\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT secciones\imagenes\imagen2.png
 INPUT .\secciones\imagenes\imagen2.png
 INPUT .\secciones\imagenes\imagen2.png

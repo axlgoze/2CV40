@@ -9,4 +9,4 @@
 ## -acomodar correctamente imagen dos
 ## -nota: no se para que es y que hace {XXX0000}
 ## -cambiar iconos de viñetas.
-## -poner en negrita titulo de columnar de tabla 1
+## -poner en negrita titulo de columnar de tabla 1 (HECHO)
