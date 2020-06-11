@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1591902537 "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex" "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/build/articulo.pdf" "articulo" 1591902540
+["pdflatex"] 1591904999 "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex" "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/build/articulo.pdf" "articulo" 1591905002
   "C:/Users/Madeleinosa/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1591556530 10027247 101e1d4ac0389b9bf5b1e51f38c72d7e ""
   "C:/Users/Madeleinosa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1591732185 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/tfm/adobe/symbol/psyr.tfm" 1136797454 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -67,19 +67,19 @@
   "C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/tex/latex/psnfss/upzd.fd" 1585257378 153 b2a94082cb802f90d3daf6dd0c7188a0 ""
   "C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/tex/latex/tools/calc.sty" 1580648486 10216 5efd55f2010055e7b7875afd6a75be82 ""
   "C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
-  "articulo.tex" 1591902502 1223 4c823c48935bee12f91c452c161e9b6d ""
-  "build/articulo.aux" 1591902539 1537 10115ab4a2c34212ecd8275b4b31c660 "pdflatex"
-  "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex" 1591902502 1223 4c823c48935bee12f91c452c161e9b6d ""
-  "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/build/articulo.aux" 1591902539 1537 10115ab4a2c34212ecd8275b4b31c660 ""
+  "articulo.tex" 1591904975 1223 ad7ae5d7e1e1faa2a59d87a34cbfde7c ""
+  "build/articulo.aux" 1591905002 1537 10115ab4a2c34212ecd8275b4b31c660 "pdflatex"
+  "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex" 1591904975 1223 ad7ae5d7e1e1faa2a59d87a34cbfde7c ""
+  "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/build/articulo.aux" 1591905002 1537 10115ab4a2c34212ecd8275b4b31c660 ""
   "imagenes/imagen1.png" 1591901951 7885 056e5b6cf103fb99801ead1fdc009fe0 ""
   "referencias.tex" 1591902433 307 50c30ba924249ddc72be24e523bd2498 ""
   "resumen.tex" 1591726907 60 65fed9f697eb17ec0ad81690aa0267f9 ""
   "secciones/imagenes/imagen2.png" 1591901081 7589 8ed1e91bde30edda08f71aeb0203601c ""
   "secciones/seccion1.tex" 1591902535 1129 478060a1fe776f348e85221c5d2edba9 ""
-  "secciones/seccion2.tex" 1591902473 1080 4b650849db23b955f1d5e7891a02447f ""
+  "secciones/seccion2.tex" 1591904998 1081 118cea155d9d2a5801963c299fc49364 ""
   (generated)
   "build/articulo.log"
-  "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/build/articulo.pdf"
   "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/build/articulo.log"
-  "build/articulo.aux"
+  "c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/build/articulo.pdf"
   "build/articulo.pdf"
+  "build/articulo.aux"

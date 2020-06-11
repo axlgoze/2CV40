@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  11 JUN 2020 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  11 JUN 2020 14:50
 entering extended mode
 **"c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex"
 ("c:/Users/Madeleinosa/Documents/AXL/AXL/6to semestre/Herramientas_automatizadas/2do parcial/ha_GruPO_u2_latex_articulo_AxelReyesFlores/articulo.tex"
@@ -183,7 +183,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 File: imagenes/imagen1.png Graphic file (type png)
 <use imagenes/imagen1.png>
 Package pdftex.def Info: imagenes/imagen1.png  used on input line 20.
-(pdftex.def)             Requested size: 91.42181pt x 63.59778pt.
+(pdftex.def)             Requested size: 93.49843pt x 65.04237pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -218,7 +218,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  40i,8n,45p,436b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Madeleinosa/Documents/Aprendiendo a programar/MIKTEXT/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf" (3 pages, 158552 bytes).
+Output written on "c:/Users\Madeleinosa\Documents\AXL\AXL\6to semestre\Herramientas_automatizadas\2do parcial\ha_GruPO_u2_latex_articulo_AxelReyesFlores\build\articulo.pdf" (3 pages, 158550 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
