@@ -18,16 +18,30 @@ Contenido de la segunda subsección. Ejemplo de ecuación matemática es la ecua
     e=mc^2
     \label{ecuacion}
 \end{equation}
-Así se escribe la chicharronera: $x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$ 
+Así se escribe Ley de Gauss para el campo magnético: %Chicharronera $x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}$ 
+\begin{align*}
+        \oint_S \vec{B} \cdot d\vec{s} = 0& \qquad
+\end{align*}
 
 \subsection{Título de la tercera subsección}
 Contenido de la tercera subsección. A continuación se muestra un ejemplo de elementos en viñetas:
 
-\begin{itemize} %ambiente o entorno itemize
+\begin{itemize} %Ambiente o entorno itemize
+    \renewcommand{\labelitemi}{\ding{42}} %dentro del entorno itemize no afecta a otras viñetas
+    \renewcommand{\labelitemii}{\ding{43}} %renombrando items
     \item [+]\textit{uno.}
     \item \textbf{dos.}
     \item \underline{tres.}
-    \item cuatro.
+    \begin{itemize}
+        \item cuatro
+        \begin{itemize}
+            \item cinco
+            \begin{itemize}
+                \item ultimo subnivel permitido. %El uso de el idioma español cambia por defecto los simbolos en cada subnivel.
+            \end{itemize}
+        \end{itemize}
+    \end{itemize}
+    \item seis.
 \end{itemize}
 
 
